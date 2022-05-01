@@ -1474,7 +1474,7 @@ header .container .mega-menu .links li a i {
     max-width: 100%;
 }
 .discount .text  {
-    background-image: url(/images/discount-background1.jpg);
+    background-image: url(images/discount-background1.jpg);
     background-size: cover;
     flex-basis: 50%;
     position: relative;
